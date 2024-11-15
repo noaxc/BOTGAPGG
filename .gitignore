@@ -125,3 +125,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+venv/
+league-ai-backend/dragonData
+league_ai_project/league-ai-frontend/public/assets/*.jpg
